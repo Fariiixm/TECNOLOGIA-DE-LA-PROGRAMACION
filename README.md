@@ -33,7 +33,7 @@ El proyecto está organizado de la siguiente manera:
    
 
 2. **Compilar el Código:**
-   Configurarpreviamente en debug las semillas (seed) a generar y el nivel EASY HARD ENSANE
+   Configurar previamente en debug las semillas (seed) a generar y el nivel EASY HARD ENSANE
 
    javac -d bin src/tp1/*.java
    
